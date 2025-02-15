@@ -1,0 +1,18 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "TaxGPT PRO",
+  "name_for_model": "TaxGPT PRO",
+  "description_for_human": "Expert tax guidance and document extraction.",
+  "description_for_model": "An API for advanced tax advice and OCR-based doc processing.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://USERNAME.github.io/tax-expert-plugin/openapi.json",
+    "is_user_authenticated": false
+  },
+  "logo_url": "https://USERNAME.github.io/tax-expert-plugin/logo.png",
+  "contact_email": "support@mydomain.com",
+  "legal_info_url": "https://mydomain.com/legal"
+}
